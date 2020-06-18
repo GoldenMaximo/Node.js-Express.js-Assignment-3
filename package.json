@@ -1,0 +1,23 @@
+{
+  "name": "node.js-schwarzmueller-assignment-3",
+  "version": "1.0.0",
+  "description": "Section 5 Assignment 3 of NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenMaximo/Node.js-Schwarzmueller-Assignment-3.git"
+  },
+  "author": "Gustavo Máximo Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenMaximo/Node.js-Schwarzmueller-Assignment-3/issues"
+  },
+  "homepage": "https://github.com/GoldenMaximo/Node.js-Schwarzmueller-Assignment-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
